@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+# Halo semua! 
+
+Perkenalkan nama saya **Sudrazat**.\
+
+
+
 <!--
 **sudrazat02/sudrazat02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
